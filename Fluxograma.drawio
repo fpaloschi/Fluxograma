@@ -1,48 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T00:09:21.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="4Umd3KCUyOdKR72Gdy6v" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T00:10:09.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="_ndhN6iWx6DU04y7vMx9" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2505" dy="2673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1250" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-88" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oeyPdxeXq-uHNHkCoqnj-89" target="oeyPdxeXq-uHNHkCoqnj-92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-89" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="-1090" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-90" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oeyPdxeXq-uHNHkCoqnj-92" target="oeyPdxeXq-uHNHkCoqnj-96">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-91" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oeyPdxeXq-uHNHkCoqnj-92" target="oeyPdxeXq-uHNHkCoqnj-93">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-92" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1530" y="-1000" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-93" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1680" y="-980" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-94" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oeyPdxeXq-uHNHkCoqnj-96">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="1580" y="-740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-95" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oeyPdxeXq-uHNHkCoqnj-96" target="oeyPdxeXq-uHNHkCoqnj-97">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-96" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1530" y="-880" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-97" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1680" y="-860" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="oeyPdxeXq-uHNHkCoqnj-98" value="Início" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=20;fontFamily=Helvetica;fontColor=#3d4752;align=center;spacing=11.3;strokeColor=#3d4752;strokeOpacity=100;fillOpacity=100;shadow=1;fillColor=#ffdba9;strokeWidth=3;lucidId=YGcM8_aNu0eV;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="348" y="-1120" width="132" height="60" as="geometry" />
         </mxCell>
@@ -334,9 +295,6 @@
             <mxPoint x="433" y="841" as="sourcePoint" />
             <mxPoint x="433" y="876" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oeyPdxeXq-uHNHkCoqnj-164" value="Óleo essencial, corrante, álcool de cereais, renex (desengordurante), vermiculita." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;fontColor=#3d4752;align=center;spacing=11.3;strokeColor=#3d4752;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;shadow=1;fillColor=#ffffff;strokeWidth=3;lucidId=nIcwTGv3Z-u6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1720" y="-736.5" width="180" height="152" as="geometry" />
         </mxCell>
         <mxCell id="oeyPdxeXq-uHNHkCoqnj-165" value="Álcool de cereais (2,5 - 100) ml" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;fontColor=#3d4752;align=center;spacing=11.3;strokeColor=#3d4752;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;shadow=1;fillColor=#ffffff;strokeWidth=3;lucidId=nIcwTGv3Z-u6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="-704.53" width="310" height="51" as="geometry" />
