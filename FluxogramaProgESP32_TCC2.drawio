@@ -272,6 +272,9 @@
             <mxPoint x="1455" y="1176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kIneLuP9A-6rgGFjxoqg-126" value="Agrupa dados" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;fontColor=#3d4752;align=center;spacing=11.3;strokeColor=#3d4752;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;shadow=1;fillColor=#ffffff;strokeWidth=3;lucidId=PaPjgZ5aMJZG;" vertex="1" parent="1">
+          <mxGeometry x="1582" y="1570" width="196" height="99" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
