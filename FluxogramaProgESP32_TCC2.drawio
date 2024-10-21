@@ -275,7 +275,7 @@
         </mxCell>
         <mxCell id="kIneLuP9A-6rgGFjxoqg-138" value="YES" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontSize=16.7;" vertex="1" parent="kIneLuP9A-6rgGFjxoqg-137">
           <mxGeometry x="-0.6616733776927339" relative="1" as="geometry">
-            <mxPoint x="4" as="offset" />
+            <mxPoint x="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kIneLuP9A-6rgGFjxoqg-139" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=16.7;fontFamily=Helvetica;fontStyle=1;strokeColor=#3d4752;strokeOpacity=100;strokeWidth=3;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=0.995;exitPerimeter=0;lucidId=dkLjdHbdrjaG;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIneLuP9A-6rgGFjxoqg-136" target="kIneLuP9A-6rgGFjxoqg-144">
@@ -300,7 +300,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kIneLuP9A-6rgGFjxoqg-143" value="Envia e-mail&lt;br&gt;informando falha" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;fontColor=#3d4752;align=center;spacing=11.3;strokeColor=#3d4752;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;shadow=1;fillColor=#ffffff;strokeWidth=3;lucidId=aALjpcRrlFdX;" vertex="1" parent="1">
-          <mxGeometry x="1236" y="1792" width="196" height="99" as="geometry" />
+          <mxGeometry x="1258" y="1792" width="196" height="99" as="geometry" />
         </mxCell>
         <mxCell id="kIneLuP9A-6rgGFjxoqg-144" value="Monitora valores das grandezas físicas" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20;fontFamily=Helvetica;fontColor=#3d4752;align=center;spacing=11.3;strokeColor=#3d4752;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;shadow=1;fillColor=#ffffff;strokeWidth=3;lucidId=rzLjJsJPlAcu;" vertex="1" parent="1">
           <mxGeometry x="952" y="1646" width="196" height="98" as="geometry" />
